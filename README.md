@@ -14,7 +14,7 @@
     <li>Python, YOLOv5</li>
  </ul>
 <h4>Демо</h4>
-<p>Демо сервиса доступно по адресу: https://colab.research.google.com/drive/1GBif3LMl_0tNNC8CpxIgMpTVfe1ZLF0Y?usp=sharing </p>
+<p>Демо сервиса доступно по адресу: https://colab.research.google.com/drive/1QHdppdJkZSsWQQ455ZfkbPO4iLqZDDfr?usp=sharing </p>
 
 
 СРЕДА ЗАПУСКА
