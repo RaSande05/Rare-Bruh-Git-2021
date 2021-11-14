@@ -15,6 +15,7 @@
  </ul>
 <h4>Демо</h4>
 <p>Демо сервиса доступно по адресу: https://colab.research.google.com/drive/1QHdppdJkZSsWQQ455ZfkbPO4iLqZDDfr?usp=sharing </p>
+<p>Веса находятся на гугл драйве https://drive.google.com/drive/folders/1-2G3SxMzrf-FVPsPU3IW2xYfHOypdffp?usp=sharing</p>
 
 
 СРЕДА ЗАПУСКА
